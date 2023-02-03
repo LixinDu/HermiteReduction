@@ -1,10 +1,11 @@
 #################################################################################################
 ## Copyright (c) December 2022, JKU. All rights reserved.
 ## Author: Lixin Du <lixin.du@jku.at>
-## Load the file: integral_bases.txt (by Shayea Aldossari) ## [Dx, x]
 ## Load the modules:
 ##          LinearRelation (in HermiteCT.mm, by Shaoshi Chen <schen@amss.ac.cn>)
 ## Modified on February 3, 2023
+## Remark: To decied the integrability of D-finite functions, this code requires the package
+##         "integral_bases.txt" by Shayea Aldossari to compute integral bases. ## [Dx, x]
 #################################################################################################
 
 
